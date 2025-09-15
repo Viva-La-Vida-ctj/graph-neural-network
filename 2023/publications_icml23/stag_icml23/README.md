@@ -1,4 +1,4 @@
-- ( 时空图学习已成为一种最先进的解决方案，用于在学习各种城市传感任务（例如犯交通流量预测） )
+- ( 时空图学习已成为一种最先进的解决方案，用于在学习各种城市传感任务（例如交通流量预测） )
 # Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation
 
 ```
